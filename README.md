@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [An Ecommerce Website](https://jolly-cat-2cb8fa.netlify.app/)
 
-- 🌱 I’m currently learning **React,Typescript**
+- 🌱 I’m currently learning **React,Typescript,Node.js,MongoDB,MongoDbAtlas**
 
 - 👨‍💻 All of my projects are available at [https://manmohanjina.github.io/](https://manmohanjina.github.io/)
 
