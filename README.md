@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ad_jxJd79WzjLj6B4ODzJCSO7ZVh43pV/view?usp=sharing](https://drive.google.com/file/d/1Ad_jxJd79WzjLj6B4ODzJCSO7ZVh43pV/view?usp=sharing)
 
-- ⚡ Fun fact **universe in Endless**
+- ⚡ Fun fact **There is a Fish with Legs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
