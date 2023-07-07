@@ -5,7 +5,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on [An Ecommerce Website](https://jolly-cat-2cb8fa.netlify.app/)
+- 🔭 I’m currently working on [my own website for offering web-devlopment](https://kudos-pink-nine.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js, MySQL, Git Submodules, MultiTenancy**
 
